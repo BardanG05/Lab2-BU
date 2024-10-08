@@ -8,3 +8,4 @@ print(f"Result = {something} and its data type is {type_something}")
 
 
 unit_name = "Programming"
+
