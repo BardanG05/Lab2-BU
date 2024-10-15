@@ -22,3 +22,5 @@ print(my_text.split())
 
 my_text = "Bananas are great source of Potassium"
 print(my_text.count("a"))
+
+print("a")
