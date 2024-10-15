@@ -19,6 +19,10 @@ def remove_duplicates(numbers):
     # Hint: Convert the list to a set to remove duplicates, then convert it back to a list
     # List --> Set (remove duplicates) --> List (return the list)
     # Write your code here...
+    my_list = [1, 2, 3, 2, 2, 4, 4, 5, 75]
+    my_set = set(my_list)
+    
+
 
 
     return unique_numbers
